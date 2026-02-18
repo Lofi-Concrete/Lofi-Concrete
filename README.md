@@ -1,16 +1,32 @@
-## Hi there 👋
+# ⫸ 欢迎主页
 
-<!--
-**Lofi-Concrete/Lofi-Concrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “只要能将这种生产性的工具从占有者手中夺回，它便能开启一个全新的世界。”
+> 
+> Ciallo～(∠・ω< )⌒☆
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⛭ 硬件栈
+- **笔记本**: `ThinkPad X1 Carbon Gen 9` (运行 `NixOS`) && `ThinkPad T430` (运行 `Guix System`)
+- **当前手机**: `IQOO 13` + `Pixel 6` (运行 `LineageOS 22`) //好吧我有点想换个索尼的备用机
+
+---
+
+### ◈ 兴趣与哲学
+- **个人简介**: 计算机科学与技术系大一生，重度社恐+抗拒社会化的自宅警备员
+- **个人立场**: 去中心化自由软件（反对FSF）&& 反资本主义激进左翼
+- **个人兴趣**: 动画、轻小说，以及 Galgame
+- **阅读取向**: 正在试图完善自己的社科基础
+
+---
+
+### ⌬ 技术栈 
+- **主要学习内容**: `C/C++`、`Python`、`Java` 
+- **次要学习内容**: `Rust`、`Zig` 
+
+---
+***注***: 平常在Codeberg,此处仓库均为镜像
+
+> “哪怕身处败局的废墟，我们也必须在那不可预测的瞬间，为那不可见的可能而战” —— 丹尼尔·本赛德
+
+<p align="right">—— 在这个世界上，如果你不试图重建那个梦，你就只能生活在它的废墟中。</p>
